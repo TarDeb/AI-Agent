@@ -24,12 +24,4 @@ It helps you **find potential clients** and **generate professional outreach ema
 - Add WhatsApp or Telegram bot for client communication
 - Automate reporting, scheduling, and invoicing
 
----
-
-
-
----
-
-## 🙋‍♂️ Author
-
-Tarek – AI & Drone Solutions (Solo Founder)
+--
